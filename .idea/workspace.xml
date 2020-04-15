@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c18c7adb-6b4f-47ce-a716-2a8b7aa96f25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../1211.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Best_Practices/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Best_Practices/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Best_Practices/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Best_Practices/Java_Best_Practices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Best_Practices/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring(MVC)_Hibernate/Spring(MVC)_Hibernate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../crypto_trader/.idea/crypto_trader.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-science-ipython-notebooks-master/.idea/data-science-ipython-notebooks-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../matplotlib-tutorial-master/.idea/matplotlib-tutorial-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../netty-learning-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project-birdies.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-annotation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-annotation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-annotation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-annotation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-annotation/spring-annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-01-helloworld/src/main/resources/notes/Spring Boot核心技术-笔记-pdf版.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_source_parsing_data/.idea/spring_source_parsing_data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_source_parsing_data/代码/servlet3.0/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_source_parsing_data/代码/servlet3.0/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_source_parsing_data/代码/servlet3.0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_source_parsing_data/代码/servlet3.0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_source_parsing_data/代码/servlet3.0/servlet3.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thinking-in-spring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld-quick/spring-boot-01-helloworld-quick.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-01-helloworld/spring-boot-01-helloworld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-02-config-02/spring-boot-02-config-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-02-config-autoconfig/spring-boot-02-config-autoconfig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-02-config/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-02-config/spring-boot-02-config.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-03-logging/spring-boot-03-logging.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-08-starter-test/spring-boot-08-starter-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../代码/spring-boot-08-starter/atguigu-spring-boot-starter/atguiguspringbootstarter.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1aZGEBjf4XlOGLfQ5ReCXlbJWrK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c18c7adb-6b4f-47ce-a716-2a8b7aa96f25" name="Default Changelist" comment="" />
+      <created>1586935588902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586935588902</updated>
+    </task>
+    <servers />
+  </component>
+</project>
